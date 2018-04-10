@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_write"
+        android:title="글쓰기"
+        android:icon="@drawable/ic_create" />
+
+    <item
+        android:id="@+id/bottom_picture"
+        android:title="사진"
+        android:icon="@drawable/ic_photo" />
+
+    <item
+        android:id="@+id/bottom_camera"
+        android:title="카메라"
+        android:icon="@drawable/ic_photo_camera" />
+
+    <item
+        android:id="@+id/bottom_link"
+        android:title="링크"
+        android:icon="@drawable/ic_link" />
+</menu>
